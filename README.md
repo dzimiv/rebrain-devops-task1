@@ -2,5 +2,3 @@
 # rebrain-devops-task1
 
 
-
-test
